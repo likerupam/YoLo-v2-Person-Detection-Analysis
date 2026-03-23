@@ -1,8 +1,8 @@
 # YOLOv2 Person Detection Error Analysis
 
-**Course:** Computer Vision
+**Course:** Computer Vision\
 **Assignment:** Detection Error Analysis using YOLOv2\
-**Student:** Rupam Mahato
+**Student:** Rupam Mahato\
 **Roll No:** 2024CT05038
 
 ------------------------------------------------------------------------
